@@ -58,9 +58,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
   assign q_bar = ~q;
 endmodule
 ```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+```
 Developed by:TAMILSELVI.I
 RegisterNumber:24900261
+```
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
